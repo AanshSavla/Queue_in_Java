@@ -12,3 +12,10 @@ Circular Queue from Scratch
 <img width="835" alt="image" src="https://user-images.githubusercontent.com/54212786/223445295-98e32fd5-915d-4ec4-a79f-6b4e1d1ed20c.png">
 <img width="835" alt="image" src="https://user-images.githubusercontent.com/54212786/223445414-529e891b-2eda-4b28-9d7c-7374a6a0263c.png">
 <img width="835" alt="image" src="https://user-images.githubusercontent.com/54212786/223445477-b6db8372-95af-4d22-af99-60ddbfc85de1.png">
+
+Deque: Input Restricted and Output Restricted.(Images of only few test cases are uploaded.)
+
+<img width="836" alt="image" src="https://user-images.githubusercontent.com/54212786/223698048-1762ca26-981d-4b17-b5aa-a1d0dbcd33ab.png">
+<img width="836" alt="image" src="https://user-images.githubusercontent.com/54212786/223698272-28d56102-6e21-45ae-9458-f64ccc144fba.png">
+<img width="836" alt="image" src="https://user-images.githubusercontent.com/54212786/223698467-e24cdc75-34c1-4c90-9365-c58cb09a3879.png">
+<img width="836" alt="image" src="https://user-images.githubusercontent.com/54212786/223698552-4fe73da8-ba89-403e-adf5-2d18a785cd36.png">
