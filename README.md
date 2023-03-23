@@ -25,3 +25,13 @@ Queue using Linked List
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227185504-cbbd5158-b61e-4309-a3a0-3d2da7c1beb7.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227185619-5ee4e70a-0be9-42b6-b4ce-9ae33c736a9e.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227185809-df69dc6f-af45-4311-bdb2-ca810e403f6f.png">
+
+Priority Queue
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227229359-51b8dfe5-6d65-45f4-b1e9-adb24766e3c3.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227230202-376d9ef6-2c2d-4bd9-b97e-2dfcc024758e.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227230318-153fa039-0304-4714-a3cf-d8ab8a0fb4dc.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227230424-82a765e4-8d9e-44f1-948f-5794c056c410.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227230503-17c26557-e39c-4a9d-bbc0-22d47127c8a6.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227230604-b9cec98e-9057-4e84-87cd-90633fbd2070.png">
+
