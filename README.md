@@ -19,3 +19,9 @@ Deque: Input Restricted and Output Restricted.(Images of only few test cases are
 <img width="836" alt="image" src="https://user-images.githubusercontent.com/54212786/223698272-28d56102-6e21-45ae-9458-f64ccc144fba.png">
 <img width="836" alt="image" src="https://user-images.githubusercontent.com/54212786/223698467-e24cdc75-34c1-4c90-9365-c58cb09a3879.png">
 <img width="836" alt="image" src="https://user-images.githubusercontent.com/54212786/223698552-4fe73da8-ba89-403e-adf5-2d18a785cd36.png">
+
+Queue using Linked List
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227185504-cbbd5158-b61e-4309-a3a0-3d2da7c1beb7.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227185619-5ee4e70a-0be9-42b6-b4ce-9ae33c736a9e.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227185809-df69dc6f-af45-4311-bdb2-ca810e403f6f.png">
